@@ -1,6 +1,8 @@
 # SCUT Beamer Theme - 华南理工大学Beamer主题模板
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/288ade5e-44ec-40c3-a21a-ec3c1a63172f)
+
+![image](https://github.com/user-attachments/assets/a42a3d6e-2e4d-4392-9417-149c2c992ec4)
 
 ## 项目简介
 
